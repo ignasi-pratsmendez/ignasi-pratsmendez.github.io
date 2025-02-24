@@ -12,5 +12,5 @@ My name is Ignasi Prats, I am from Barcelona and I love learning new skills. Hav
 - Master in Health Data Science (2023 - 2026)
 
 ### Experience
-- Internship at IDIBAPS on Parkinsons Disease (2023 - present)
+- Internship at IDIBAPS on Parkinsons Disease (Jan 2022 - Jun 2022)
 - Bioninformatician at Hospital Universitari Vall d'Hebron on Virus section of the Microbiology Unit (2023 - present)
